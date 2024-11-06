@@ -127,7 +127,7 @@ header .inner .pc_nav .gnb > li .depth2 > li {
 
 header .inner .pc_nav .gnb > li:nth-of-type(2) .depth2 > li > a::after {
   content: '';
-  background: url(../IMG/icon/angle-right.png) center center / 100% no-repeat;
+  background: url(../img/icon/angle-right.png) center center / 100% no-repeat;
   width: 12px;
   height: 13px;
   position: absolute;
@@ -284,12 +284,12 @@ header .inner .mobile {
 
 .main_visual .swiper-button-prev,
 .main_visual .swiper-rtl .swiper-button-next {
-  background: url(../IMG/icon/angle-left.png) center center / 100% no-repeat;
+  background: url(../img/icon/angle-left.png) center center / 100% no-repeat;
 }
 
 .main_visual .swiper-button-next,
 .main_visual .swiper-rtl .swiper-button-prev {
-  background: url(../IMG/icon/angle-right.png) center center / 100% no-repeat;
+  background: url(../img/icon/angle-right.png) center center / 100% no-repeat;
 }
 
 .main_visual .swiper-pagination-bullet {
@@ -435,7 +435,7 @@ header .inner .mobile {
 
 .new .new_wrap .n_item_wrap .swiper-button-next,
 .new .new_wrap .n_item_wrap .swiper-rtl .swiper-button-prev {
-  background: url(../IMG/icon/angle-right.png) center right / 100% no-repeat;
+  background: url(../img/icon/angle-right.png) center right / 100% no-repeat;
   position: absolute;
   top: 45%;
   right: -2%;
@@ -621,7 +621,7 @@ header .inner .mobile {
 
 .best .b_item_wrap .swiper-button-prev,
 .best .b_item_wrap .swiper-rtl .swiper-button-next {
-  background: url(../IMG/icon/angle-left.png) center center / 100% no-repeat;
+  background: url(../img/icon/angle-left.png) center center / 100% no-repeat;
   position: absolute;
   top: 45%;
   left: -3%;
@@ -631,7 +631,7 @@ header .inner .mobile {
 
 .best .b_item_wrap .swiper-button-next,
 .best .b_item_wrap .swiper-rtl .swiper-button-prev {
-  background: url(../IMG/icon/angle-right.png) center center / 100% no-repeat;
+  background: url(../img/icon/angle-right.png) center center / 100% no-repeat;
   position: absolute;
   top: 45%;
   right: -3%;
