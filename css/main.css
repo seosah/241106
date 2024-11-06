@@ -1712,6 +1712,10 @@ header .inner .mobile {
   .set h2 {
     margin-bottom: 15px;
   }
+
+  .set .set_title {
+    width: 35%;
+  }
   
   .set .set_title span {
     font-size: 28px;
@@ -1723,9 +1727,14 @@ header .inner .mobile {
     margin-bottom: 18px;
   }
   
+  
+  .set .set_wrap .set_swiper {
+    width: 55%;
+  }
+
   .set .set_wrap .set_item_wrap {
     /*   width: 32.34%; */
-    width: 55%;
+    width: 100%;
     display: flex;
     gap: 14px;
   }
@@ -1741,7 +1750,7 @@ header .inner .mobile {
   
   .set .set_wrap .set_item_wrap img {
     display: block;
-    width: 450px;
+    /* width: 450px; */
     max-height: 550px;
     height: 68.75vw;
     object-fit: cover;
